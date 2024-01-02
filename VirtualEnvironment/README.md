@@ -8,7 +8,7 @@
 
 <image>
 
-2.conda create -n virtualenvironmentname python=version(ex.3.10)
+  2.conda create -n virtualenvironmentname python=version(ex.3.10)
 
 <image>
 

@@ -12,7 +12,7 @@
 
 <image>
 
-3.conda virtualenvironmentname activate
+3.conda activate virtualenvironmentname 
 
 <image>
 

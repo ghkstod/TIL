@@ -85,7 +85,7 @@
 
 -가상환경 생성
 
-![333333](https://github.com/ghkstod/TIL/assets/134246762/7407f07d-4cf7-4ac6-8865-3b59a
+![333333](https://github.com/ghkstod/TIL/assets/134246762/7407f07d-4cf7-4ac6-8865-3b59a)
 
 ### 6.source venv/Scripts/activate
 

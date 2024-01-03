@@ -73,7 +73,7 @@
 
 ### 3. Terminal -> gitbash
 
-<image>
+![2222222](https://github.com/ghkstod/TIL/assets/134246762/1acd808e-1585-48c8-b6a9-2777e857da8d)
 
 ### 4. pip install virtualenv
 
@@ -89,7 +89,7 @@
 
 ### 6.source venv/Scripts/activate
 
--가상환경 활성 밒 확인
+-가상환경 활성 및 확인
 
 < image>
 

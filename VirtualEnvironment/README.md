@@ -79,28 +79,32 @@
 
 -virtualenv 인스톨
 
-<image>
+![777777](https://github.com/ghkstod/TIL/assets/134246762/6b6b2348-f136-4204-8bea-a84a6246ac03)
 
 ### 5. virtualenv venv
 
 -가상환경 생성
 
-<image>
+![333333](https://github.com/ghkstod/TIL/assets/134246762/7407f07d-4cf7-4ac6-8865-3b59a
 
 ### 6.source venv/Scripts/activate
 
 -가상환경 활성 및 확인
 
-< image>
+![444444](https://github.com/ghkstod/TIL/assets/134246762/150130af-5b9d-45e9-8efa-c598d220db89)
+
+![55555555](https://github.com/ghkstod/TIL/assets/134246762/8aee967b-6ee9-46a3-9496-c48083344481)
 
 ### 7. 가상환경 패키지 구축
 
 -pip install packagename1 packagename2 ... packagenamen
 
+![6666666](https://github.com/ghkstod/TIL/assets/134246762/2c14e579-2c57-43a7-9e6d-28cf7a527c07)
+
 ### 8. 가상환경 테스트
 
 -main.py 와 jupyter lab을 통한 테스트
 
-<image>
-<image>
+![999999](https://github.com/ghkstod/TIL/assets/134246762/bf0938b8-19f8-497e-a3b0-62c000dc7565)
+![888888](https://github.com/ghkstod/TIL/assets/134246762/bf746aba-0ee2-409c-ae4b-e31d1654159a)
 

@@ -88,7 +88,8 @@
 
 ### 6.source venv/Scripts/activate
 
--가상환경 활성 및 확인
+- 가상환경 활성 및 확인
+- venv 확인
 
 ![55555555](https://github.com/ghkstod/TIL/assets/134246762/8aee967b-6ee9-46a3-9496-c48083344481)
 

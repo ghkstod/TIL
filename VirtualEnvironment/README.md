@@ -92,13 +92,15 @@
 
 ![55555555](https://github.com/ghkstod/TIL/assets/134246762/8aee967b-6ee9-46a3-9496-c48083344481)
 
+![6666666](https://github.com/ghkstod/TIL/assets/134246762/2c14e579-2c57-43a7-9e6d-28cf7a527c07)
+
+
 ### 7. 가상환경 패키지 구축
 
 -pip install packagename1 packagename2 ... packagenamen
 
 ![777777](https://github.com/ghkstod/TIL/assets/134246762/6b6b2348-f136-4204-8bea-a84a6246ac03)
 
-![6666666](https://github.com/ghkstod/TIL/assets/134246762/2c14e579-2c57-43a7-9e6d-28cf7a527c07)
 
 ### 8. 가상환경 테스트
 

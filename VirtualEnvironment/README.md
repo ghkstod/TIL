@@ -1,7 +1,7 @@
 # conda&PyCharm Python가상환경 설정 + VisualStudio Python가상환경 설정
 
 ## [1.conda](https://github.com/ghkstod/TIL/blob/main/VirtualEnvironment/README.md#1-condapycharm)
-## [2.venv}(https://github.com/ghkstod/TIL/blob/main/VirtualEnvironment/README.md#2vs%EC%97%90%EC%84%9C-%EA%B0%80%EC%83%81%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%84%B1)
+## [2.venv](https://github.com/ghkstod/TIL/blob/main/VirtualEnvironment/README.md#2vs%EC%97%90%EC%84%9C-%EA%B0%80%EC%83%81%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%84%B1)
 
 ## 1. conda&PyCharm
 

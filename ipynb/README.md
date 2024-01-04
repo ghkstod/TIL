@@ -3,3 +3,4 @@
 ### -UPDATE-
 
 - 2024-01-03:Numpy 기초문법
+- 2024-01-04:Pandas 기초문법, iloc vs loc 비교하기

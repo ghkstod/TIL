@@ -8,3 +8,5 @@
 - 2024-01-05: 시각화1(matplotlib)
 - 2024-01-08: Pandas 데이터 병합
 - 2024-01-08: 시각화2(seaborn)
+- 2024-01-09: Pandas groupby
+- 2024-01-09: Plotly

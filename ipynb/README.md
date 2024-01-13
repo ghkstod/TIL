@@ -12,3 +12,4 @@
 - 2024-01-09: Plotly
 - 2024-01-11: T-test
 - 2024-01-12: LinerRegression
+- 2024-01-13: Normal Form

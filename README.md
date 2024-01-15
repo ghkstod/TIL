@@ -16,3 +16,4 @@
 - 2024-01-11: T-test
 - 2024-01-12: LinearRegression
 - 2024-01-13: Normal Form
+-2024-01-15: KaggleData EDA

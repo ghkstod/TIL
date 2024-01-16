@@ -17,3 +17,4 @@
 - 2024-01-12: LinearRegression
 - 2024-01-13: Normal Form
 - 2024-01-15: KaggleData EDA
+- 2024-01-16: KaggleData Report

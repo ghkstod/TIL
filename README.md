@@ -20,3 +20,4 @@
 - 2024-01-15: KaggleData EDA
 - 2024-01-15 : 표본평군의 분포와 중심극한정리
 - 2024-01-16: KaggleData Report
+- 2024-01-17 : KaggleData Report PPT

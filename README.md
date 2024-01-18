@@ -15,6 +15,8 @@
 - 2024-01-09: Plotly
 - 2024-01-11: T-test
 - 2024-01-12: LinearRegression
+- 2024-01-12 : 표본분포
 - 2024-01-13: Normal Form
 - 2024-01-15: KaggleData EDA
+- 2024-01-15 : 표본평군의 분포와 중심극한정리
 - 2024-01-16: KaggleData Report

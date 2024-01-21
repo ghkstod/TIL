@@ -6,3 +6,4 @@
 - 2024-01-13:Normal Form [https://hwdata.tistory.com/10]
 - 2024-01-15:표본평균의 분포와 중심극한정리 [https://hwdata.tistory.com/15]
 - 2024-01-16: Kaggle Data Report [https://hwdata.tistory.com/16]
+- 2024-01-21: 보건의료빅데이터 데이터 전처리 [https://hwdata.tistory.com/18]

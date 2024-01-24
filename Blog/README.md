@@ -8,3 +8,5 @@
 - 2024-01-16: Kaggle Data Report [https://hwdata.tistory.com/16]
 - 2024-01-21: 보건의료빅데이터 데이터 전처리 [https://hwdata.tistory.com/18]
 - 2024-01-22 : 카이제곱분포 [https://hwdata.tistory.com/19]
+- 2024-01-24 : Linux 기본 명령어 [https://hwdata.tistory.com/20]
+- 2024-01-24: Linux 명령어로 github 사용하기 [https://hwdata.tistory.com/21]

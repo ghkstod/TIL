@@ -27,3 +27,4 @@
 - 2024-01-23 : Todolist 작업 (Djangoweb Repo확인)
 - 2024-01-24 : Linux 기본 명령어
 - 2024-01-24: Linux 명령어로 github 사용하기
+- 2024-01-24 : Django pyburger 1차(pybergur Repo확인)

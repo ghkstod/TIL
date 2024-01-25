@@ -30,4 +30,4 @@
 - 2024-01-24 : Django pyburger 1차(pybergur Repo확인)
 - 2024-01-25 : Django pyburger 2차(pybergur Repo확인)
 - 2024-01-25 : Django djangogmail(djangogmail Repo확인)
-- 2024-01-25 : Django django-todolist(django-todolist Repo확인)
+- 2024-01-25 : Django django-todolist 1차(django-todolist Repo확인)

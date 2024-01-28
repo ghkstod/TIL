@@ -14,3 +14,4 @@
 - 2024-01-26 : Coding Test - Min-Max Sum [https://hwdata.tistory.com/23]
 - 2024-01-27 : Coding Test - Time Conversion [https://hwdata.tistory.com/24]
 - 2024-01-28 : t분포 [https://hwdata.tistory.com/25]
+- 2024-01-28 : Coding Test - Sparse Arrays [https://hwdata.tistory.com/26]

@@ -35,3 +35,4 @@
 - 2024-01-26 : Django django-todolist 2차(django-todolist Repo확인)
 - 2024-01-26 : Coding Test - Min-Max Sum
 - 2024-01-27 : Coding Test - Time Conversion
+- 2024-01-28 : t분포

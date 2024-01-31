@@ -15,3 +15,8 @@
 - 2024-01-27 : Coding Test - Time Conversion [https://hwdata.tistory.com/24]
 - 2024-01-28 : t분포 [https://hwdata.tistory.com/25]
 - 2024-01-28 : Coding Test - Sparse Arrays [https://hwdata.tistory.com/26]
+- 2024-01-29 : Coding Test - Lonely Integer [https://hwdata.tistory.com/27]
+- 2024-01-30 : plotly bar chart [https://hwdata.tistory.com/30]
+- 2024-01-30 : Decorator [https://hwdata.tistory.com/29]
+- 2024-01-31 : Coding Test - Flipping bits [https://hwdata.tistory.com/31]
+

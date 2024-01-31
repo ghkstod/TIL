@@ -37,3 +37,6 @@
 - 2024-01-27 : Coding Test - Time Conversion
 - 2024-01-28 : t분포
 - 2024-01-28 : Coding Test - Sparse Arrays
+- 2024-01-29 : Coding Test - Lonely Integer
+- 2024-01-30 : plotly bar chart
+- 2024-01-31 : Coding Test - Flipping bits

@@ -39,4 +39,5 @@
 - 2024-01-28 : Coding Test - Sparse Arrays
 - 2024-01-29 : Coding Test - Lonely Integer
 - 2024-01-30 : plotly bar chart
+- 2024-01-30 : Decorator
 - 2024-01-31 : Coding Test - Flipping bits

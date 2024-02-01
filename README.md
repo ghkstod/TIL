@@ -34,12 +34,15 @@
 - 2024-01-25 : Coding Test - Plus Minus
 - 2024-01-26 : Django django-todolist 2차(django-todolist Repo확인)
 - 2024-01-26 : Coding Test - Min-Max Sum
+- 2024-01-26 : Streamlit 1차(streamlit-mulcamp Repo확인)
 - 2024-01-27 : Coding Test - Time Conversion
 - 2024-01-28 : t분포
 - 2024-01-28 : Coding Test - Sparse Arrays
 - 2024-01-29 : Coding Test - Lonely Integer
 - 2024-01-30 : plotly bar chart
 - 2024-01-30 : Decorator
+- 2024-01-30 : Streamlit 2차(streamlit-mulcamp, streamlit_first Repo확인)
 - 2024-01-31 : Coding Test - Flipping bits
+- 2024-02-01 : Streamlit 배포(test ver.)
 - 2024-02-01 : Web Crawling
 - 2024-02-01 : dotenv setting

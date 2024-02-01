@@ -41,3 +41,5 @@
 - 2024-01-30 : plotly bar chart
 - 2024-01-30 : Decorator
 - 2024-01-31 : Coding Test - Flipping bits
+- 2024-02-01 : Web Crawling
+- 2024-02-01 : dotenv setting

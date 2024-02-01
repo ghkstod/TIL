@@ -19,4 +19,5 @@
 - 2024-01-30 : plotly bar chart [https://hwdata.tistory.com/30]
 - 2024-01-30 : Decorator [https://hwdata.tistory.com/29]
 - 2024-01-31 : Coding Test - Flipping bits [https://hwdata.tistory.com/31]
+- 2024-02-01 : dotenv setting [https://hwdata.tistory.com/35]
 

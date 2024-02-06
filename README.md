@@ -46,3 +46,5 @@
 - 2024-02-01 : Streamlit 배포(test ver.)
 - 2024-02-01 : Web Crawling
 - 2024-02-01 : dotenv setting
+- 2024-02-02 :
+- 2024-02-02 :

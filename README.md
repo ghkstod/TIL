@@ -46,7 +46,10 @@
 - 2024-02-01 : Streamlit 배포(test ver.)
 - 2024-02-01 : Web Crawling
 - 2024-02-01 : dotenv setting
+- 2024-02-01 : bs4_requests
 - 2024-02-02 : st.selectbox
+- 2024-02-02 : selenium_crawling
+- 2024-02-02 : api-crawling
 - 2024-02-02 : Coding Test - Pangrams
 - 2024-02-03 : plotly line chart
 - 2024-02-03 : Coding Test - Permuting Two Arrays
@@ -61,6 +64,8 @@
 - 2024-02-14 : Coding Test - Mr K marsh
 - 2024-02-15 : Coding Test - Number Line Jumps
 - 2024-02-15 : pycaret in conda
+- 2024-02-16 : pycaret
 - 2024-02-16 : Coding Test - Divisible Sum Pairs
 - 2024-02-19 : Coding Test - Apple and Orange
+- 2024-02-20 : Logistic Reggresion
 - 2024-02-20 : Confusion Matrix

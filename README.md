@@ -69,6 +69,8 @@
 - 2024-02-19 : Coding Test - Apple and Orange
 - 2024-02-20 : Logistic Reggresion
 - 2024-02-20 : Confusion Matrix
+- 2024-02-20 : Random Forest
+- 2024-02-21 : Decision Tree
 - 2024-02-21 : Python Wrapper API & Scikit-Learn Wrapper API
 - 2024-02-21 : Machine learning
 - 2024-02-21 : Coding Test - Breaking the Records

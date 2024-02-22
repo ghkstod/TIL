@@ -69,3 +69,9 @@
 - 2024-02-19 : Coding Test - Apple and Orange
 - 2024-02-20 : Logistic Reggresion
 - 2024-02-20 : Confusion Matrix
+- 2024-02-21 : Python Wrapper API & Scikit-Learn Wrapper API
+- 2024-02-21 : Machine learning
+- 2024-02-21 : Coding Test - Breaking the Records
+- 2024-02-22 : Gradient Descent
+- 2024-02-22 : Coding test - Migratory Birds
+- 2024-02-22 : lightgbm

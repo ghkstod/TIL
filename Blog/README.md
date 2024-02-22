@@ -38,4 +38,9 @@
 - 2024-02-16 : Coding Test - Divisible Sum Pairs [https://hwdata.tistory.com/54]
 - 2024-02-19 : Coding Test - Apple and Orange [https://hwdata.tistory.com/56]
 - 2024-02-20 : Confusion Matrix [https://hwdata.tistory.com/58]
+- 2024-02-20 : Coding test - Breakinf the Records [https://hwdata.tistory.com/59]
+- 2024-02-21 : Python Wrapper API & Scikit-Learn Wrapper API [https://hwdata.tistory.com/60]
+- 2024-02-21 : Coding test - Migratory Birds [https://hwdata.tistory.com/61]
+- 2024-02-22 : Gradient Descent [https://hwdata.tistory.com/62]
+- 2024-02-22 : Coding test - Sales by Match [https://hwdata.tistory.com/63]
 
